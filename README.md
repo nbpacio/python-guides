@@ -7,11 +7,15 @@ List of guides for Python Programming
 ### Create Local Repository Folder:
 
 '''ps1
+
 mkdir folder_name
+
 '''
 
 '''powershell
+
 cd folder_name
+
 '''
 
 ### Create Virtual Environment:
